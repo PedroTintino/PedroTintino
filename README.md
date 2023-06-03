@@ -24,6 +24,12 @@
 
 <img align="center" alt='node-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                     
+<img align="center" alt='oracle-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/oracle-original.svg" />
+  
+<img align="center" alt='oracle-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+
+            <img align="center" alt='oracle-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+          
           
                              
 </div>
