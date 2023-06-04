@@ -29,7 +29,7 @@
  <img align="center" alt='yarn-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 
 <!-- Gif -->
- <img align="right" alt='kaworu-gif' height="70" width="70" src="https://gifdb.com/images/file/kaworu-nagisa-with-gems-around-92qnu6obsbmwm0gz.gif" />
+ <img align="right" alt='kaworu-gif' height="100" width="110" src="https://gifdb.com/images/file/kaworu-nagisa-with-gems-around-92qnu6obsbmwm0gz.gif" />
           
                              
 </div>
