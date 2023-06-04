@@ -1,8 +1,9 @@
-### Hello 👋
+### 初めましてよろしく皆さん! 👋
+### Welcome, guys! 👋
+### Bem vindos! 👋
 
-- 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning Python and React.
-- 🤔 I’m looking for help with ML with Pyhton.
+- 🔭 I’m currently working on fullstack development.
+- 🌱 I’m currently learning Python, React and Oracle Apex.
 - 😄 Pronouns: he/him.
 
 <div style="display: inline_block"><br>
