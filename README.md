@@ -24,12 +24,12 @@
 
 <img align="center" alt='node-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
                     
-
-  
 <img align="center" alt='three-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
 
  <img align="center" alt='yarn-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-          
+
+<!-- Gif -->
+ <img align="right" alt='kaworu-gif' height="40" width="50" src="https://gifdb.com/images/file/kaworu-nagisa-with-gems-around-92qnu6obsbmwm0gz.gif" />
           
                              
 </div>
