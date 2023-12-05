@@ -29,7 +29,7 @@
  <img align="center" alt='yarn-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 
 <!-- Gif -->
- <img align="right" alt='kaworu-gif' height="200" width="210" src="https://media.tenor.com/V5RW-Vqd6vgAAAAd/neon-genesis-evangelion-kaworu-nagisa.gif" />
+ <img align="right" alt='kaworu-gif' height="200" width="210" src="https://steamuserimages-a.akamaihd.net/ugc/574564421344097398/523238DC382BB8C86BF70CD448D927A69AECEB17/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
           
                              
 </div>
