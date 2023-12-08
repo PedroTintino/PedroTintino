@@ -2,7 +2,7 @@
 ### Welcome, guys! 👋
 ### Bem vindos! 👋
 
-<h2>You can actually check my portfolio over <a href="https://pedrotintinoportifolio.netlify.app/">here</a></h2>.
+<h2>You can actually check my portfolio over <a href="https://pedrotintinoportifolio.netlify.app/">here</a>.</h2>
 
 - 🔭 I’m currently working on fullstack development.
 - 🌱 I’m currently learning Python, React and Oracle Apex.
