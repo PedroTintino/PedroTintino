@@ -5,7 +5,7 @@
 <h2>You can actually check my portfolio over <a href="https://pedrotintinoportifolio.netlify.app/">here</a>.</h2>
 
 - 🔭 I’m currently working on fullstack development.
-- 🌱 I’m currently learning Python, React and Oracle Apex.
+- 🌱 I’m currently learning Typescript.
 - 😄 Pronouns: he/him.
 
 <div style="display: inline_block"><br>
