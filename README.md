@@ -5,8 +5,7 @@
 <h2>You can actually check my portfolio over <a href="https://pedrotintinoportifolio.netlify.app/">here</a>.</h2>
 
 - 🔭 I’m currently working on fullstack development.
-- 🌱 I’m currently learning Typescript.
-- 😄 Pronouns: he/him.
+- 🌱 I’m currently improving my Typescript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
