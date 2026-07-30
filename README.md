@@ -3,14 +3,15 @@
 
 <h2>You can actually check my portfolio over <a href="https://pedrotintinoportifolio.netlify.app/">here</a>.</h2>
 
-- 🔭 I’m currently working on fullstack development.
-- 🌱 I’m currently improving my <strong>Next.js</strong> and learning <strong>Jest</strong>.
+- 🔭 I’m currently working on full stack development.
+- 🌱 I’m currently learning <strong>Terraform</strong>.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Next badge" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+  <img align="center" alt="Azure badge" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/azure.svg" />
   <img align="center" alt='node-badge' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
   <img align="center" alt='bootstrap-badge' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
